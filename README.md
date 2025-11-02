@@ -26,13 +26,13 @@ O projeto demonstra boas práticas com **DTOs, validação com Bean Validation, 
 
 ## ⚙️ Tecnologias Utilizadas
 
-- **Java 17+**  
+- **Java 21+**  
 - **Spring Boot 3+**  
 - **Spring Web**  
 - **Spring Data JPA**  
 - **Hibernate**  
 - **Bean Validation (Jakarta Validation)**  
-- **Banco de Dados H2 ou MySQL (configurável)**  
+- **Banco de Dados MySQL**  
 
 ---
 
@@ -216,11 +216,21 @@ public class PessoaController {
 
 ---
 
-## 💡 Possíveis Melhorias Futuras
-
-- Implementar **tratamento global de exceções** com `@ControllerAdvice`.  
-- Adicionar **Swagger/OpenAPI** para documentação automática.  
-- Criar testes unitários com **JUnit e Mockito**.  
-- Adicionar autenticação JWT para proteger endpoints.
+## 💡 Etapa de estudo: 1/12
+  Este projeto tem como objetivo a repetição e o treino do básico, para fixar o conhecimento necessário para um programador backend
+  Etapas:
+  - CRUD
+  - ErrorHandling
+  - Validação
+  - Segurança (JWT)
+  - Bando de dados avançado
+  - Logs de Monitoramento
+  - Teste Unitários
+  - Swagger
+  - Configuração de Perfil
+  - Docker + Deploy
+  - Integrações externas
+  - Boas práticas da arquitetura
+  
 
 ---
