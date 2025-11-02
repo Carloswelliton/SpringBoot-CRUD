@@ -32,7 +32,7 @@ O projeto demonstra boas práticas com **DTOs, validação com Bean Validation, 
 - **Spring Data JPA**  
 - **Hibernate**  
 - **Bean Validation (Jakarta Validation)**  
-- **Banco de Dados MySQL**  
+- **Banco de Dados PostgreSQL**  
 
 ---
 
